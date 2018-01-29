@@ -1,0 +1,41 @@
+Bought at 0.047
+Current number of DASH is 212765
+------------------------
+Sold at 0.054218
+Current US dollar balance: $11535
+------------------------
+Bought at 0.054
+Current number of DASH is 213624
+------------------------
+Sold at 0.05659
+Current US dollar balance: $12089
+------------------------
+Bought at 0.055563
+Current number of DASH is 217573
+------------------------
+Sold at 0.071487
+Current US dollar balance: $15553
+------------------------
+Bought at 0.072832
+Current number of DASH is 213555
+------------------------
+Sold at 0.088969
+Current US dollar balance: $18999
+------------------------
+Bought at 0.0888
+Current number of DASH is 213961
+------------------------
+Sold at 0.089655
+Current US dollar balance: $19182
+------------------------
+Bought at 0.088481
+Current number of DASH is 216800
+------------------------
+Sold at 0.088553
+Current US dollar balance: $19198
+------------------------
+Bought at 0.08798
+Current number of DASH is 218212
+------------------------
+Final account holdings in US dollars (algorithm results): $17,291
+

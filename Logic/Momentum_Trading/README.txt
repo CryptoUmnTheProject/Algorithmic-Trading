@@ -1,0 +1,1 @@
+Momentum algorithms are one of the best ways of predicting market trends; it works by using moving averages.  Look here for a good introduction: https://www.investopedia.com/university/introduction-stock-trader-types/momentum-traders.asp
