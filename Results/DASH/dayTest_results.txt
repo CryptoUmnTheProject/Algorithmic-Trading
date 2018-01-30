@@ -1,0 +1,1376 @@
+Time: 1391803200
+Bought BTC at: 712.4
+Number of BTC: 14.03705783267827
+----------------
+Time: Mon Feb 10 02:00:00 2014
+Bought at 0.00037836
+Current number of DASH is 37099.74054519048
+------------------
+Time: Sat Feb 15 02:00:00 2014
+Sold at 0.00047341
+Current number of BTC is 17.563388171498623
+------------------
+Time: Mon Feb 17 02:00:00 2014
+Bought at 0.00121614
+Current number of DASH is 14441.913078674019
+------------------
+Time: Sat Feb 22 02:00:00 2014
+Sold at 0.0019
+Current number of BTC is 27.439634849480637
+------------------
+Time: Mon Feb 24 02:00:00 2014
+Bought at 0.00177087
+Current number of DASH is 15495.002371422317
+------------------
+Time: Sat Mar  1 02:00:00 2014
+Sold at 0.00144692
+Current number of BTC is 22.420028831258378
+------------------
+Time: Mon Mar  3 02:00:00 2014
+Bought at 0.0017114
+Current number of DASH is 13100.402495768598
+------------------
+Time: Sat Mar  8 02:00:00 2014
+Sold at 0.00145082
+Current number of BTC is 19.006325948910998
+------------------
+Time: Mon Mar 10 03:00:00 2014
+Bought at 0.00133983
+Current number of DASH is 14185.62500385198
+------------------
+Time: Sat Mar 15 03:00:00 2014
+Sold at 0.00125663
+Current number of BTC is 17.82608194859051
+------------------
+Time: Mon Mar 17 03:00:00 2014
+Bought at 0.00121562
+Current number of DASH is 14664.18942481245
+------------------
+Time: Sat Mar 22 03:00:00 2014
+Sold at 0.00126134
+Current number of BTC is 18.496528689092933
+------------------
+Time: Mon Mar 24 03:00:00 2014
+Bought at 0.00148526
+Current number of DASH is 12453.394482510088
+------------------
+Time: Sat Mar 29 03:00:00 2014
+Sold at 0.00143098
+Current number of BTC is 17.82055843658229
+------------------
+Time: Mon Mar 31 03:00:00 2014
+Bought at 0.00137424
+Current number of DASH is 12967.573667323239
+------------------
+Time: Sat Apr  5 03:00:00 2014
+Sold at 0.00143009
+Current number of BTC is 18.54479742590229
+------------------
+Time: Mon Apr  7 03:00:00 2014
+Bought at 0.00130832
+Current number of DASH is 14174.511912912963
+------------------
+Time: Sat Apr 12 03:00:00 2014
+Sold at 0.001305
+Current number of BTC is 18.497738046351415
+------------------
+Time: Mon Apr 14 03:00:00 2014
+Bought at 0.00128174
+Current number of DASH is 14431.739702553885
+------------------
+Time: Sat Apr 19 03:00:00 2014
+Sold at 0.00146269
+Current number of BTC is 21.10916134552854
+------------------
+Time: Mon Apr 21 03:00:00 2014
+Bought at 0.00141706
+Current number of DASH is 14896.448524076992
+------------------
+Time: Sat Apr 26 03:00:00 2014
+Sold at 0.00438715
+Current number of BTC is 65.35295414240437
+------------------
+Time: Mon Apr 28 03:00:00 2014
+Bought at 0.00403128
+Current number of DASH is 16211.464880237634
+------------------
+Time: Sat May  3 03:00:00 2014
+Sold at 0.00293014
+Current number of BTC is 47.5018617041795
+------------------
+Time: Mon May  5 03:00:00 2014
+Bought at 0.00407564
+Current number of DASH is 11655.0680884915
+------------------
+Time: Sat May 10 03:00:00 2014
+Sold at 0.0051263
+Current number of BTC is 59.74737554203398
+------------------
+Time: Mon May 12 03:00:00 2014
+Bought at 0.00576728
+Current number of DASH is 10359.714725491736
+------------------
+Time: Sat May 17 03:00:00 2014
+Sold at 0.01150507
+Current number of BTC is 119.1892430968132
+------------------
+Time: Mon May 19 03:00:00 2014
+Bought at 0.01571191
+Current number of DASH is 7585.916867956424
+------------------
+Time: Sat May 24 03:00:00 2014
+Sold at 0.02442783
+Current number of BTC is 185.30748764457198
+------------------
+Time: Mon May 26 03:00:00 2014
+Bought at 0.02255925
+Current number of DASH is 8214.257461776078
+------------------
+Time: Sat May 31 03:00:00 2014
+Sold at 0.01924016
+Current number of BTC is 158.04362784576563
+------------------
+Time: Mon Jun  2 03:00:00 2014
+Bought at 0.0209325
+Current number of DASH is 7550.15539690747
+------------------
+Time: Sat Jun  7 03:00:00 2014
+Sold at 0.01704137
+Current number of BTC is 128.66499167619705
+------------------
+Time: Mon Jun  9 03:00:00 2014
+Bought at 0.0141854
+Current number of DASH is 9070.240647158138
+------------------
+Time: Sat Jun 14 03:00:00 2014
+Sold at 0.01752773
+Current number of BTC is 158.9807290984131
+------------------
+Time: Mon Jun 16 03:00:00 2014
+Bought at 0.01721136
+Current number of DASH is 9236.964952125405
+------------------
+Time: Sat Jun 21 03:00:00 2014
+Sold at 0.01585617
+Current number of BTC is 146.46288656494227
+------------------
+Time: Mon Jun 23 03:00:00 2014
+Bought at 0.0165852
+Current number of DASH is 8830.938822862689
+------------------
+Time: Sat Jun 28 03:00:00 2014
+Sold at 0.01655192
+Current number of BTC is 146.1689929209174
+------------------
+Time: Mon Jun 30 03:00:00 2014
+Bought at 0.01423504
+Current number of DASH is 10268.25305168917
+------------------
+Time: Sat Jul  5 03:00:00 2014
+Sold at 0.01149543
+Current number of BTC is 118.03798417797923
+------------------
+Time: Mon Jul  7 03:00:00 2014
+Bought at 0.01040848
+Current number of DASH is 11340.559253414449
+------------------
+Time: Sat Jul 12 03:00:00 2014
+Sold at 0.01049605
+Current number of BTC is 119.03107695180073
+------------------
+Time: Mon Jul 14 03:00:00 2014
+Bought at 0.00995776
+Current number of DASH is 11953.5997003142
+------------------
+Time: Sat Jul 19 03:00:00 2014
+Sold at 0.01147816
+Current number of BTC is 137.20532993615842
+------------------
+Time: Mon Jul 21 03:00:00 2014
+Bought at 0.01122107
+Current number of DASH is 12227.472953662924
+------------------
+Time: Sat Jul 26 03:00:00 2014
+Sold at 0.00997735
+Current number of BTC is 121.99777727422877
+------------------
+Time: Mon Jul 28 03:00:00 2014
+Bought at 0.00915551
+Current number of DASH is 13325.06624690801
+------------------
+Time: Sat Aug  2 03:00:00 2014
+Sold at 0.01001124
+Current number of BTC is 133.40043621369534
+------------------
+Time: Mon Aug  4 03:00:00 2014
+Bought at 0.00959205
+Current number of DASH is 13907.395834435323
+------------------
+Time: Sat Aug  9 03:00:00 2014
+Sold at 0.0097716
+Current number of BTC is 135.89750913576822
+------------------
+Time: Mon Aug 11 03:00:00 2014
+Bought at 0.00941758
+Current number of DASH is 14430.194289378824
+------------------
+Time: Sat Aug 16 03:00:00 2014
+Sold at 0.00665972
+Current number of BTC is 96.10105351286194
+------------------
+Time: Mon Aug 18 03:00:00 2014
+Bought at 0.00362497
+Current number of DASH is 26510.85485200207
+------------------
+Time: Sat Aug 23 03:00:00 2014
+Sold at 0.00637391
+Current number of BTC is 168.97780284972453
+------------------
+Time: Mon Aug 25 03:00:00 2014
+Bought at 0.00605233
+Current number of DASH is 27919.462892757754
+------------------
+Time: Sat Aug 30 03:00:00 2014
+Sold at 0.00480506
+Current number of BTC is 134.15469436747458
+------------------
+Time: Mon Sep  1 03:00:00 2014
+Bought at 0.0047652
+Current number of DASH is 28153.003938444257
+------------------
+Time: Sat Sep  6 03:00:00 2014
+Sold at 0.00605564
+Current number of BTC is 170.48445676980057
+------------------
+Time: Mon Sep  8 03:00:00 2014
+Bought at 0.00592991
+Current number of DASH is 28749.923147197947
+------------------
+Time: Sat Sep 13 03:00:00 2014
+Sold at 0.0059079
+Current number of BTC is 169.85167096133074
+------------------
+Time: Mon Sep 15 03:00:00 2014
+Bought at 0.00597855
+Current number of DASH is 28410.178214003517
+------------------
+Time: Sat Sep 20 03:00:00 2014
+Sold at 0.00804498
+Current number of BTC is 228.55931552809403
+------------------
+Time: Mon Sep 22 03:00:00 2014
+Bought at 0.00749999
+Current number of DASH is 30474.616036567255
+------------------
+Time: Sat Sep 27 03:00:00 2014
+Sold at 0.0075
+Current number of BTC is 228.5596202742544
+------------------
+Time: Mon Sep 29 03:00:00 2014
+Bought at 0.00773001
+Current number of DASH is 29567.829831300918
+------------------
+Time: Sat Oct  4 03:00:00 2014
+Sold at 0.006685
+Current number of BTC is 197.66094242224665
+------------------
+Time: Mon Oct  6 03:00:00 2014
+Bought at 0.00701714
+Current number of DASH is 28168.305381144834
+------------------
+Time: Sat Oct 11 03:00:00 2014
+Sold at 0.00613422
+Current number of BTC is 172.79058223512627
+------------------
+Time: Mon Oct 13 03:00:00 2014
+Bought at 0.00606988
+Current number of DASH is 28466.886039777768
+------------------
+Time: Sat Oct 18 03:00:00 2014
+Sold at 0.00574945
+Current number of BTC is 163.6689379414003
+------------------
+Time: Mon Oct 20 03:00:00 2014
+Bought at 0.00577573
+Current number of DASH is 28337.359596345446
+------------------
+Time: Sat Oct 25 03:00:00 2014
+Sold at 0.00570104
+Current number of BTC is 161.55242055314923
+------------------
+Time: Mon Oct 27 03:00:00 2014
+Bought at 0.00555502
+Current number of DASH is 29082.239227428385
+------------------
+Time: Sat Nov  1 03:00:00 2014
+Sold at 0.00516259
+Current number of BTC is 150.1396774131295
+------------------
+Time: Mon Nov  3 02:00:00 2014
+Bought at 0.00504073
+Current number of DASH is 29785.304393040195
+------------------
+Time: Sat Nov  8 02:00:00 2014
+Sold at 0.00662126
+Current number of BTC is 197.21624456546132
+------------------
+Time: Mon Nov 10 02:00:00 2014
+Bought at 0.0079986
+Current number of DASH is 24656.345431133115
+------------------
+Time: Sat Nov 15 02:00:00 2014
+Sold at 0.00615124
+Current number of BTC is 151.66709826980326
+------------------
+Time: Mon Nov 17 02:00:00 2014
+Bought at 0.00641686
+Current number of DASH is 23635.718758053514
+------------------
+Time: Sat Nov 22 02:00:00 2014
+Sold at 0.00617955
+Current number of BTC is 146.0581058513296
+------------------
+Time: Mon Nov 24 02:00:00 2014
+Bought at 0.0062487
+Current number of DASH is 23374.15876123507
+------------------
+Time: Sat Nov 29 02:00:00 2014
+Sold at 0.00642916
+Current number of BTC is 150.27620654138207
+------------------
+Time: Mon Dec  1 02:00:00 2014
+Bought at 0.00620001
+Current number of DASH is 24238.058735612052
+------------------
+Time: Sat Dec  6 02:00:00 2014
+Sold at 0.0062391
+Current number of BTC is 151.22367225735715
+------------------
+Time: Mon Dec  8 02:00:00 2014
+Bought at 0.00626104
+Current number of DASH is 24153.123483855263
+------------------
+Time: Sat Dec 13 02:00:00 2014
+Sold at 0.00628468
+Current number of BTC is 151.79465209651548
+------------------
+Time: Mon Dec 15 02:00:00 2014
+Bought at 0.0062985
+Current number of DASH is 24100.127347227986
+------------------
+Time: Sat Dec 20 02:00:00 2014
+Sold at 0.00610283
+Current number of BTC is 147.07898017848336
+------------------
+Time: Mon Dec 22 02:00:00 2014
+Bought at 0.00598426
+Current number of DASH is 24577.63870194199
+------------------
+Time: Sat Dec 27 02:00:00 2014
+Sold at 0.00597304
+Current number of BTC is 146.80321907224757
+------------------
+Time: Mon Dec 29 02:00:00 2014
+Bought at 0.00604374
+Current number of DASH is 24290.128144534276
+------------------
+Time: Sat Jan  3 02:00:00 2015
+Sold at 0.0060787
+Current number of BTC is 147.6524019521805
+------------------
+Time: Mon Jan  5 02:00:00 2015
+Bought at 0.00600088
+Current number of DASH is 24605.124907043715
+------------------
+Time: Sat Jan 10 02:00:00 2015
+Sold at 0.00612127
+Current number of BTC is 150.6146129397395
+------------------
+Time: Mon Jan 12 02:00:00 2015
+Bought at 0.00611876
+Current number of DASH is 24615.2182696722
+------------------
+Time: Sat Jan 17 02:00:00 2015
+Sold at 0.00606102
+Current number of BTC is 149.19333023684862
+------------------
+Time: Mon Jan 19 02:00:00 2015
+Bought at 0.00629812
+Current number of DASH is 23688.549954089256
+------------------
+Time: Sat Jan 24 02:00:00 2015
+Sold at 0.00672525
+Current number of BTC is 159.3114205787388
+------------------
+Time: Mon Jan 26 02:00:00 2015
+Bought at 0.00673017
+Current number of DASH is 23671.23275916341
+------------------
+Time: Sat Jan 31 02:00:00 2015
+Sold at 0.00728706
+Current number of BTC is 172.49369338998932
+------------------
+Time: Mon Feb  2 02:00:00 2015
+Bought at 0.00820271
+Current number of DASH is 21028.866483148777
+------------------
+Time: Sat Feb  7 02:00:00 2015
+Sold at 0.00814825
+Current number of BTC is 171.34846132131702
+------------------
+Time: Mon Feb  9 02:00:00 2015
+Bought at 0.00944992
+Current number of DASH is 18132.265809797016
+------------------
+Time: Sat Feb 14 02:00:00 2015
+Sold at 0.01219046
+Current number of BTC is 221.04066106369814
+------------------
+Time: Mon Feb 16 02:00:00 2015
+Bought at 0.01217587
+Current number of DASH is 18153.99319011275
+------------------
+Time: Sat Feb 21 02:00:00 2015
+Sold at 0.01101906
+Current number of BTC is 200.0399402014438
+------------------
+Time: Mon Feb 23 02:00:00 2015
+Bought at 0.01058393
+Current number of DASH is 18900.346109757324
+------------------
+Time: Sat Feb 28 02:00:00 2015
+Sold at 0.01217145
+Current number of BTC is 230.04461765760578
+------------------
+Time: Mon Mar  2 02:00:00 2015
+Bought at 0.01279797
+Current number of DASH is 17975.086490873615
+------------------
+Time: Sat Mar  7 02:00:00 2015
+Sold at 0.01228555
+Current number of BTC is 220.83382383795234
+------------------
+Time: Mon Mar  9 03:00:00 2015
+Bought at 0.01221793
+Current number of DASH is 18074.56941052636
+------------------
+Time: Sat Mar 14 03:00:00 2015
+Sold at 0.01051377
+Current number of BTC is 190.03186563130976
+------------------
+Time: Mon Mar 16 03:00:00 2015
+Bought at 0.01095768
+Current number of DASH is 17342.344878779975
+------------------
+Time: Sat Mar 21 03:00:00 2015
+Sold at 0.016582
+Current number of BTC is 287.57076277992957
+------------------
+Time: Mon Mar 23 03:00:00 2015
+Bought at 0.01671639
+Current number of DASH is 17202.922567607573
+------------------
+Time: Sat Mar 28 03:00:00 2015
+Sold at 0.01926482
+Current number of BTC is 331.4112067388977
+------------------
+Time: Mon Mar 30 03:00:00 2015
+Bought at 0.01732144
+Current number of DASH is 19133.00549716985
+------------------
+Time: Sat Apr  4 03:00:00 2015
+Sold at 0.01595587
+Current number of BTC is 305.2837484221275
+------------------
+Time: Mon Apr  6 03:00:00 2015
+Bought at 0.01598565
+Current number of DASH is 19097.362223126835
+------------------
+Time: Sat Apr 11 03:00:00 2015
+Sold at 0.01415978
+Current number of BTC is 270.4144476597869
+------------------
+Time: Mon Apr 13 03:00:00 2015
+Bought at 0.01358249
+Current number of DASH is 19909.048168619076
+------------------
+Time: Sat Apr 18 03:00:00 2015
+Sold at 0.01329649
+Current number of BTC is 264.72045988356183
+------------------
+Time: Mon Apr 20 03:00:00 2015
+Bought at 0.0120624
+Current number of DASH is 21945.919542011692
+------------------
+Time: Sat Apr 25 03:00:00 2015
+Sold at 0.01410345
+Current number of BTC is 309.5131789647848
+------------------
+Time: Mon Apr 27 03:00:00 2015
+Bought at 0.01366783
+Current number of DASH is 22645.37815913607
+------------------
+Time: Sat May  2 03:00:00 2015
+Sold at 0.0118793
+Current number of BTC is 269.01124076582516
+------------------
+Time: Mon May  4 03:00:00 2015
+Bought at 0.0123319
+Current number of DASH is 21814.257394710075
+------------------
+Time: Sat May  9 03:00:00 2015
+Sold at 0.01142838
+Current number of BTC is 249.30162292455674
+------------------
+Time: Mon May 11 03:00:00 2015
+Bought at 0.01121941
+Current number of DASH is 22220.564443634445
+------------------
+Time: Sat May 16 03:00:00 2015
+Sold at 0.01244362
+Current number of BTC is 276.50426012209846
+------------------
+Time: Mon May 18 03:00:00 2015
+Bought at 0.01216969
+Current number of DASH is 22720.731598101385
+------------------
+Time: Sat May 23 03:00:00 2015
+Sold at 0.0121185
+Current number of BTC is 275.3411858715917
+------------------
+Time: Mon May 25 03:00:00 2015
+Bought at 0.01200444
+Current number of DASH is 22936.612276090487
+------------------
+Time: Sat May 30 03:00:00 2015
+Sold at 0.01185398
+Current number of BTC is 271.8901431885311
+------------------
+Time: Mon Jun  1 03:00:00 2015
+Bought at 0.01192688
+Current number of DASH is 22796.4181067078
+------------------
+Time: Sat Jun  6 03:00:00 2015
+Sold at 0.01262075
+Current number of BTC is 287.70789382023247
+------------------
+Time: Mon Jun  8 03:00:00 2015
+Bought at 0.01262764
+Current number of DASH is 22783.97973178143
+------------------
+Time: Sat Jun 13 03:00:00 2015
+Sold at 0.01217237
+Current number of BTC is 277.3350313677443
+------------------
+Time: Mon Jun 15 03:00:00 2015
+Bought at 0.01168178
+Current number of DASH is 23740.819581240557
+------------------
+Time: Sat Jun 20 03:00:00 2015
+Sold at 0.01177459
+Current number of BTC is 279.5384168330792
+------------------
+Time: Mon Jun 22 03:00:00 2015
+Bought at 0.01177444
+Current number of DASH is 23741.12202644705
+------------------
+Time: Sat Jun 27 03:00:00 2015
+Sold at 0.01160948
+Current number of BTC is 275.6220813435965
+------------------
+Time: Mon Jun 29 03:00:00 2015
+Bought at 0.0110626
+Current number of DASH is 24914.76518572456
+------------------
+Time: Sat Jul  4 03:00:00 2015
+Sold at 0.01157111
+Current number of BTC is 288.29148858818934
+------------------
+Time: Mon Jul  6 03:00:00 2015
+Bought at 0.01146806
+Current number of DASH is 25138.644948508234
+------------------
+Time: Sat Jul 11 03:00:00 2015
+Sold at 0.01431019
+Current number of BTC is 359.738785555693
+------------------
+Time: Mon Jul 13 03:00:00 2015
+Bought at 0.01285466
+Current number of DASH is 27985.087552350124
+------------------
+Time: Sat Jul 18 03:00:00 2015
+Sold at 0.014135
+Current number of BTC is 395.56921255246897
+------------------
+Time: Mon Jul 20 03:00:00 2015
+Bought at 0.01327178
+Current number of DASH is 29805.28704909733
+------------------
+Time: Sat Jul 25 03:00:00 2015
+Sold at 0.01299405
+Current number of BTC is 387.29139018032316
+------------------
+Time: Mon Jul 27 03:00:00 2015
+Bought at 0.01282477
+Current number of DASH is 30198.700653526197
+------------------
+Time: Sat Aug  1 03:00:00 2015
+Sold at 0.01283529
+Current number of BTC is 387.6090805111982
+------------------
+Time: Mon Aug  3 03:00:00 2015
+Bought at 0.01271141
+Current number of DASH is 30493.00435681
+------------------
+Time: Sat Aug  8 03:00:00 2015
+Sold at 0.01160885
+Current number of BTC is 353.9887136275538
+------------------
+Time: Mon Aug 10 03:00:00 2015
+Bought at 0.0117321
+Current number of DASH is 30172.664197164515
+------------------
+Time: Sat Aug 15 03:00:00 2015
+Sold at 0.01138764
+Current number of BTC is 343.59543771819847
+------------------
+Time: Mon Aug 17 03:00:00 2015
+Bought at 0.01156341
+Current number of DASH is 29714.023607067335
+------------------
+Time: Sat Aug 22 03:00:00 2015
+Sold at 0.01189495
+Current number of BTC is 353.4468251048856
+------------------
+Time: Mon Aug 24 03:00:00 2015
+Bought at 0.01145982
+Current number of DASH is 30842.266728874063
+------------------
+Time: Sat Aug 29 03:00:00 2015
+Sold at 0.01119183
+Current number of BTC is 345.1814060442146
+------------------
+Time: Mon Aug 31 03:00:00 2015
+Bought at 0.01119882
+Current number of DASH is 30823.01582168609
+------------------
+Time: Sat Sep  5 03:00:00 2015
+Sold at 0.010602
+Current number of BTC is 326.78561374151593
+------------------
+Time: Mon Sep  7 03:00:00 2015
+Bought at 0.01003856
+Current number of DASH is 32553.036864003992
+------------------
+Time: Sat Sep 12 03:00:00 2015
+Sold at 0.00995637
+Current number of BTC is 324.11007964166345
+------------------
+Time: Mon Sep 14 03:00:00 2015
+Bought at 0.01008718
+Current number of DASH is 32130.890857669187
+------------------
+Time: Sat Sep 19 03:00:00 2015
+Sold at 0.01053525
+Current number of BTC is 338.5069679082593
+------------------
+Time: Mon Sep 21 03:00:00 2015
+Bought at 0.01054591
+Current number of DASH is 32098.412361594143
+------------------
+Time: Sat Sep 26 03:00:00 2015
+Sold at 0.01021594
+Current number of BTC is 327.91545478130405
+------------------
+Time: Mon Sep 28 03:00:00 2015
+Bought at 0.01000122
+Current number of DASH is 32787.5453975919
+------------------
+Time: Sat Oct  3 03:00:00 2015
+Sold at 0.00903929
+Current number of BTC is 296.3761312369985
+------------------
+Time: Mon Oct  5 03:00:00 2015
+Bought at 0.00964498
+Current number of DASH is 30728.537667988792
+------------------
+Time: Sat Oct 10 03:00:00 2015
+Sold at 0.00955095
+Current number of BTC is 293.48672684007755
+------------------
+Time: Mon Oct 12 03:00:00 2015
+Bought at 0.00950818
+Current number of DASH is 30866.761760934012
+------------------
+Time: Sat Oct 17 03:00:00 2015
+Sold at 0.00890102
+Current number of BTC is 274.74566376930886
+------------------
+Time: Mon Oct 19 03:00:00 2015
+Bought at 0.00885795
+Current number of DASH is 31016.845180804685
+------------------
+Time: Sat Oct 24 03:00:00 2015
+Sold at 0.00779557
+Current number of BTC is 241.79398778612557
+------------------
+Time: Mon Oct 26 03:00:00 2015
+Bought at 0.00757046
+Current number of DASH is 31939.140790140304
+------------------
+Time: Sat Oct 31 03:00:00 2015
+Sold at 0.00764376
+Current number of BTC is 244.13512680604285
+------------------
+Time: Mon Nov  2 02:00:00 2015
+Bought at 0.00758635
+Current number of DASH is 32180.841485832163
+------------------
+Time: Sat Nov  7 02:00:00 2015
+Sold at 0.00697685
+Current number of BTC is 224.5209039204281
+------------------
+Time: Mon Nov  9 02:00:00 2015
+Bought at 0.00670544
+Current number of DASH is 33483.3961560208
+------------------
+Time: Sat Nov 14 02:00:00 2015
+Sold at 0.00741216
+Current number of BTC is 248.18428965181113
+------------------
+Time: Mon Nov 16 02:00:00 2015
+Bought at 0.0071583
+Current number of DASH is 34670.84219043783
+------------------
+Time: Sat Nov 21 02:00:00 2015
+Sold at 0.00670299
+Current number of BTC is 232.39830849408284
+------------------
+Time: Mon Nov 23 02:00:00 2015
+Bought at 0.00639376
+Current number of DASH is 36347.67468501833
+------------------
+Time: Sat Nov 28 02:00:00 2015
+Sold at 0.00584262
+Current number of BTC is 212.36565106818182
+------------------
+Time: Mon Nov 30 02:00:00 2015
+Bought at 0.00568403
+Current number of DASH is 37361.81038245432
+------------------
+Time: Sat Dec  5 02:00:00 2015
+Sold at 0.00642906
+Current number of BTC is 240.2013206574218
+------------------
+Time: Mon Dec  7 02:00:00 2015
+Bought at 0.00598323
+Current number of DASH is 40145.76084446391
+------------------
+Time: Sat Dec 12 02:00:00 2015
+Sold at 0.00596202
+Current number of BTC is 239.34982906991073
+------------------
+Time: Mon Dec 14 02:00:00 2015
+Bought at 0.00633664
+Current number of DASH is 37772.357127738156
+------------------
+Time: Sat Dec 19 02:00:00 2015
+Sold at 0.00563554
+Current number of BTC is 212.8676294876535
+------------------
+Time: Mon Dec 21 02:00:00 2015
+Bought at 0.00563202
+Current number of DASH is 37795.96476710905
+------------------
+Time: Sat Dec 26 02:00:00 2015
+Sold at 0.006527
+Current number of BTC is 246.69426203492077
+------------------
+Time: Mon Dec 28 02:00:00 2015
+Bought at 0.00653337
+Current number of DASH is 37759.11390827716
+------------------
+Time: Sat Jan  2 02:00:00 2016
+Sold at 0.00798901
+Current number of BTC is 301.6579386043653
+------------------
+Time: Mon Jan  4 02:00:00 2016
+Bought at 0.00770994
+Current number of DASH is 39125.84775035413
+------------------
+Time: Sat Jan  9 02:00:00 2016
+Sold at 0.00740459
+Current number of BTC is 289.71086099379465
+------------------
+Time: Mon Jan 11 02:00:00 2016
+Bought at 0.00701729
+Current number of DASH is 41285.29118702443
+------------------
+Time: Sat Jan 16 02:00:00 2016
+Sold at 0.01057503
+Current number of BTC is 436.5931928615189
+------------------
+Time: Mon Jan 18 02:00:00 2016
+Bought at 0.01155127
+Current number of DASH is 37796.12050116731
+------------------
+Time: Sat Jan 23 02:00:00 2016
+Sold at 0.0129043
+Current number of BTC is 487.7324777832133
+------------------
+Time: Mon Jan 25 02:00:00 2016
+Bought at 0.00998888
+Current number of DASH is 48827.5440072574
+------------------
+Time: Sat Jan 30 02:00:00 2016
+Sold at 0.01133522
+Current number of BTC is 553.4709533819442
+------------------
+Time: Mon Feb  1 02:00:00 2016
+Bought at 0.01094077
+Current number of DASH is 50587.93424795003
+------------------
+Time: Sat Feb  6 02:00:00 2016
+Sold at 0.01117539
+Current number of BTC is 565.3398945151982
+------------------
+Time: Mon Feb  8 02:00:00 2016
+Bought at 0.01131792
+Current number of DASH is 49950.86504544989
+------------------
+Time: Sat Feb 13 02:00:00 2016
+Sold at 0.00961307
+Current number of BTC is 480.18116224246296
+------------------
+Time: Mon Feb 15 02:00:00 2016
+Bought at 0.01003555
+Current number of DASH is 47848.01652549815
+------------------
+Time: Sat Feb 20 02:00:00 2016
+Sold at 0.00849169
+Current number of BTC is 406.31052344940736
+------------------
+Time: Mon Feb 22 02:00:00 2016
+Bought at 0.00915018
+Current number of DASH is 44404.648154397764
+------------------
+Time: Sat Feb 27 02:00:00 2016
+Sold at 0.00912121
+Current number of BTC is 405.0241207923744
+------------------
+Time: Mon Feb 29 02:00:00 2016
+Bought at 0.0090136
+Current number of DASH is 44934.77864475619
+------------------
+Time: Sat Mar  5 02:00:00 2016
+Sold at 0.01216688
+Current number of BTC is 546.7160595973112
+------------------
+Time: Mon Mar  7 02:00:00 2016
+Bought at 0.01110425
+Current number of DASH is 49234.847882325346
+------------------
+Time: Sat Mar 12 02:00:00 2016
+Sold at 0.01207596
+Current number of BTC is 594.5580536330456
+------------------
+Time: Mon Mar 14 03:00:00 2016
+Bought at 0.01383971
+Current number of DASH is 42960.29711844002
+------------------
+Time: Sat Mar 19 03:00:00 2016
+Sold at 0.01452763
+Current number of BTC is 624.1113012267629
+------------------
+Time: Mon Mar 21 03:00:00 2016
+Bought at 0.0154582
+Current number of DASH is 40374.1251391988
+------------------
+Time: Sat Mar 26 03:00:00 2016
+Sold at 0.01712977
+Current number of BTC is 691.5994775856933
+------------------
+Time: Mon Mar 28 03:00:00 2016
+Bought at 0.01555874
+Current number of DASH is 44450.866688799564
+------------------
+Time: Sat Apr  2 03:00:00 2016
+Sold at 0.01711416
+Current number of BTC is 760.739244650786
+------------------
+Time: Mon Apr  4 03:00:00 2016
+Bought at 0.01649725
+Current number of DASH is 46113.094282428036
+------------------
+Time: Sat Apr  9 03:00:00 2016
+Sold at 0.01633612
+Current number of BTC is 753.3090417690582
+------------------
+Time: Mon Apr 11 03:00:00 2016
+Bought at 0.01554383
+Current number of DASH is 48463.54095284484
+------------------
+Time: Sat Apr 16 03:00:00 2016
+Sold at 0.01409508
+Current number of BTC is 683.0974868136243
+------------------
+Time: Mon Apr 18 03:00:00 2016
+Bought at 0.01451596
+Current number of DASH is 47058.37483801445
+------------------
+Time: Sat Apr 23 03:00:00 2016
+Sold at 0.01394866
+Current number of BTC is 656.4012707680187
+------------------
+Time: Mon Apr 25 03:00:00 2016
+Bought at 0.01373915
+Current number of DASH is 47775.973824291796
+------------------
+Time: Sat Apr 30 03:00:00 2016
+Sold at 0.01463361
+Current number of BTC is 699.1349683148946
+------------------
+Time: Mon May  2 03:00:00 2016
+Bought at 0.01515194
+Current number of DASH is 46141.614097923746
+------------------
+Time: Sat May  7 03:00:00 2016
+Sold at 0.01433573
+Current number of BTC is 661.4737214720284
+------------------
+Time: Mon May  9 03:00:00 2016
+Bought at 0.01447599
+Current number of DASH is 45694.541200431086
+------------------
+Time: Sat May 14 03:00:00 2016
+Sold at 0.0150154
+Current number of BTC is 686.121813940953
+------------------
+Time: Mon May 16 03:00:00 2016
+Bought at 0.01643293
+Current number of DASH is 41752.85928565101
+------------------
+Time: Sat May 21 03:00:00 2016
+Sold at 0.01763385
+Current number of BTC is 736.263657714277
+------------------
+Time: Mon May 23 03:00:00 2016
+Bought at 0.01808727
+Current number of DASH is 40706.179413160586
+------------------
+Time: Sat May 28 03:00:00 2016
+Sold at 0.0149511
+Current number of BTC is 608.6021590241053
+------------------
+Time: Mon May 30 03:00:00 2016
+Bought at 0.01521469
+Current number of DASH is 40000.956905734216
+------------------
+Time: Sat Jun  4 03:00:00 2016
+Sold at 0.01368724
+Current number of BTC is 547.5026973984416
+------------------
+Time: Mon Jun  6 03:00:00 2016
+Bought at 0.01340694
+Current number of DASH is 40837.2602098944
+------------------
+Time: Sat Jun 11 03:00:00 2016
+Sold at 0.01342484
+Current number of BTC is 548.2336843561988
+------------------
+Time: Mon Jun 13 03:00:00 2016
+Bought at 0.01138915
+Current number of DASH is 48136.488180083565
+------------------
+Time: Sat Jun 18 03:00:00 2016
+Sold at 0.0110778
+Current number of BTC is 533.2463887613297
+------------------
+Time: Mon Jun 20 03:00:00 2016
+Bought at 0.0105229
+Current number of DASH is 50674.850921450336
+------------------
+Time: Sat Jun 25 03:00:00 2016
+Sold at 0.01004064
+Current number of BTC is 508.8079351559511
+------------------
+Time: Mon Jun 27 03:00:00 2016
+Bought at 0.01052577
+Current number of DASH is 48339.260230458305
+------------------
+Time: Sat Jul  2 03:00:00 2016
+Sold at 0.01054566
+Current number of BTC is 509.76940304193494
+------------------
+Time: Mon Jul  4 03:00:00 2016
+Bought at 0.01065337
+Current number of DASH is 47850.53021174848
+------------------
+Time: Sat Jul  9 03:00:00 2016
+Sold at 0.01093462
+Current number of BTC is 523.2273646639892
+------------------
+Time: Mon Jul 11 03:00:00 2016
+Bought at 0.01206195
+Current number of DASH is 43378.339709913336
+------------------
+Time: Sat Jul 16 03:00:00 2016
+Sold at 0.01233112
+Current number of BTC is 534.9035123637065
+------------------
+Time: Mon Jul 18 03:00:00 2016
+Bought at 0.01208031
+Current number of DASH is 44278.95578538187
+------------------
+Time: Sat Jul 23 03:00:00 2016
+Sold at 0.01399058
+Current number of BTC is 619.4882732318479
+------------------
+Time: Mon Jul 25 03:00:00 2016
+Bought at 0.01389619
+Current number of DASH is 44579.721004955165
+------------------
+Time: Sat Jul 30 03:00:00 2016
+Sold at 0.01411525
+Current number of BTC is 629.2539069151934
+------------------
+Time: Mon Aug  1 03:00:00 2016
+Bought at 0.01584753
+Current number of DASH is 39706.74969002699
+------------------
+Time: Sat Aug  6 03:00:00 2016
+Sold at 0.01774806
+Current number of BTC is 704.7177759035804
+------------------
+Time: Mon Aug  8 03:00:00 2016
+Bought at 0.0172174
+Current number of DASH is 40930.55722139117
+------------------
+Time: Sat Aug 13 03:00:00 2016
+Sold at 0.02101814
+Current number of BTC is 860.2841819572108
+------------------
+Time: Mon Aug 15 03:00:00 2016
+Bought at 0.02316816
+Current number of DASH is 37132.17544928949
+------------------
+Time: Sat Aug 20 03:00:00 2016
+Sold at 0.02303867
+Current number of BTC is 855.4759365582823
+------------------
+Time: Mon Aug 22 03:00:00 2016
+Bought at 0.0240181
+Current number of DASH is 35617.968805121236
+------------------
+Time: Sat Aug 27 03:00:00 2016
+Sold at 0.02149493
+Current number of BTC is 765.6057462082646
+------------------
+Time: Mon Aug 29 03:00:00 2016
+Bought at 0.02111001
+Current number of DASH is 36267.42697934603
+------------------
+Time: Sat Sep  3 03:00:00 2016
+Sold at 0.01956753
+Current number of BTC is 709.6639654411629
+------------------
+Time: Mon Sep  5 03:00:00 2016
+Bought at 0.01869119
+Current number of DASH is 37967.83219480209
+------------------
+Time: Sat Sep 10 03:00:00 2016
+Sold at 0.0178413
+Current number of BTC is 677.3954845371226
+------------------
+Time: Mon Sep 12 03:00:00 2016
+Bought at 0.02004632
+Current number of DASH is 33791.51308255693
+------------------
+Time: Sat Sep 17 03:00:00 2016
+Sold at 0.01949259
+Current number of BTC is 658.6841099979184
+------------------
+Time: Mon Sep 19 03:00:00 2016
+Bought at 0.01884853
+Current number of DASH is 34946.17935711265
+------------------
+Time: Sat Sep 24 03:00:00 2016
+Sold at 0.01904041
+Current number of BTC is 665.3895828929612
+------------------
+Time: Mon Sep 26 03:00:00 2016
+Bought at 0.01894988
+Current number of DASH is 35113.129101237646
+------------------
+Time: Sat Oct  1 03:00:00 2016
+Sold at 0.01967019
+Current number of BTC is 690.6819209158738
+------------------
+Time: Mon Oct  3 03:00:00 2016
+Bought at 0.0198967
+Current number of DASH is 34713.39070880466
+------------------
+Time: Sat Oct  8 03:00:00 2016
+Sold at 0.01912553
+Current number of BTC is 663.9119954029649
+------------------
+Time: Mon Oct 10 03:00:00 2016
+Bought at 0.01890542
+Current number of DASH is 35117.54805780379
+------------------
+Time: Sat Oct 15 03:00:00 2016
+Sold at 0.01795489
+Current number of BTC is 630.5317124475807
+------------------
+Time: Mon Oct 17 03:00:00 2016
+Bought at 0.01660456
+Current number of DASH is 37973.40685014121
+------------------
+Time: Sat Oct 22 03:00:00 2016
+Sold at 0.01661994
+Current number of BTC is 631.1157434449359
+------------------
+Time: Mon Oct 24 03:00:00 2016
+Bought at 0.01532353
+Current number of DASH is 41186.054613064734
+------------------
+Time: Sat Oct 29 03:00:00 2016
+Sold at 0.01247752
+Current number of BTC is 513.8998201556075
+------------------
+Time: Mon Oct 31 03:00:00 2016
+Bought at 0.01376265
+Current number of DASH is 37340.17940989617
+------------------
+Time: Sat Nov  5 03:00:00 2016
+Sold at 0.0128711
+Current number of BTC is 480.6091832027146
+------------------
+Time: Mon Nov  7 02:00:00 2016
+Bought at 0.0135516
+Current number of DASH is 35465.124649688194
+------------------
+Time: Sat Nov 12 02:00:00 2016
+Sold at 0.01369288
+Current number of BTC is 485.61969601322244
+------------------
+Time: Mon Nov 14 02:00:00 2016
+Bought at 0.01370599
+Current number of DASH is 35431.20168723474
+------------------
+Time: Sat Nov 19 02:00:00 2016
+Sold at 0.01165533
+Current number of BTC is 412.96234796127766
+------------------
+Time: Mon Nov 21 02:00:00 2016
+Bought at 0.01147662
+Current number of DASH is 35982.92423738676
+------------------
+Time: Sat Nov 26 02:00:00 2016
+Sold at 0.01200276
+Current number of BTC is 431.8944037195363
+------------------
+Time: Mon Nov 28 02:00:00 2016
+Bought at 0.01236534
+Current number of DASH is 34927.82274644581
+------------------
+Time: Sat Dec  3 02:00:00 2016
+Sold at 0.01146813
+Current number of BTC is 400.5568118731976
+------------------
+Time: Mon Dec  5 02:00:00 2016
+Bought at 0.01149069
+Current number of DASH is 34859.24795405651
+------------------
+Time: Sat Dec 10 02:00:00 2016
+Sold at 0.01141436
+Current number of BTC is 397.8960054768645
+------------------
+Time: Mon Dec 12 02:00:00 2016
+Bought at 0.01204407
+Current number of DASH is 33036.67327380732
+------------------
+Time: Sat Dec 17 02:00:00 2016
+Sold at 0.01214461
+Current number of BTC is 401.2175126078131
+------------------
+Time: Mon Dec 19 02:00:00 2016
+Bought at 0.01307786
+Current number of DASH is 30679.141129191863
+------------------
+Time: Sat Dec 24 02:00:00 2016
+Sold at 0.01082241
+Current number of BTC is 332.0222437479773
+------------------
+Time: Mon Dec 26 02:00:00 2016
+Bought at 0.01126241
+Current number of DASH is 29480.567991040753
+------------------
+Time: Sat Dec 31 02:00:00 2016
+Sold at 0.01171093
+Current number of BTC is 345.2448681033189
+------------------
+Time: Mon Jan  2 02:00:00 2017
+Bought at 0.01146738
+Current number of DASH is 30106.691162525258
+------------------
+Time: Sat Jan  7 02:00:00 2017
+Sold at 0.01366337
+Current number of BTC is 411.35886082931273
+------------------
+Time: Mon Jan  9 02:00:00 2017
+Bought at 0.01385116
+Current number of DASH is 29698.513397384246
+------------------
+Time: Sat Jan 14 02:00:00 2017
+Sold at 0.01519908
+Current number of BTC is 451.39008100791494
+------------------
+Time: Mon Jan 16 02:00:00 2017
+Bought at 0.01520885
+Current number of DASH is 29679.435395044
+------------------
+Time: Sat Jan 21 02:00:00 2017
+Sold at 0.01630524
+Current number of BTC is 483.9303171806872
+------------------
+Time: Mon Jan 23 02:00:00 2017
+Bought at 0.01631163
+Current number of DASH is 29667.80862370512
+------------------
+Time: Sat Jan 28 02:00:00 2017
+Sold at 0.01650444
+Current number of BTC is 489.6505673614237
+------------------
+Time: Mon Jan 30 02:00:00 2017
+Bought at 0.0171938
+Current number of DASH is 28478.32168348031
+------------------
+Time: Sat Feb  4 02:00:00 2017
+Sold at 0.01698776
+Current number of BTC is 483.7828939617595
+------------------
+Time: Mon Feb  6 02:00:00 2017
+Bought at 0.01612362
+Current number of DASH is 30004.607771812996
+------------------
+Time: Sat Feb 11 02:00:00 2017
+Sold at 0.01687606
+Current number of BTC is 506.3595610335824
+------------------
+Time: Mon Feb 13 02:00:00 2017
+Bought at 0.01704074
+Current number of DASH is 29714.64625559585
+------------------
+Time: Sat Feb 18 02:00:00 2017
+Sold at 0.01952411
+Current number of BTC is 580.1520221053415
+------------------
+Time: Mon Feb 20 02:00:00 2017
+Bought at 0.02081135
+Current number of DASH is 27876.712568158317
+------------------
+Time: Sat Feb 25 02:00:00 2017
+Sold at 0.02166888
+Current number of BTC is 604.0571394339145
+------------------
+Time: Mon Feb 27 02:00:00 2017
+Bought at 0.0238508
+Current number of DASH is 25326.493846492132
+------------------
+Time: Sat Mar  4 02:00:00 2017
+Sold at 0.03728314
+Current number of BTC is 944.2512157879047
+------------------
+Time: Mon Mar  6 02:00:00 2017
+Bought at 0.03562337
+Current number of DASH is 26506.51007436704
+------------------
+Time: Sat Mar 11 02:00:00 2017
+Sold at 0.0479519
+Current number of BTC is 1271.037520435041
+------------------
+Time: Mon Mar 13 03:00:00 2017
+Bought at 0.06283947
+Current number of DASH is 20226.73839284515
+------------------
+Time: Sat Mar 18 03:00:00 2017
+Sold at 0.09314108
+Current number of BTC is 1883.9402587870616
+------------------
+Time: Mon Mar 20 03:00:00 2017
+Bought at 0.10436541
+Current number of DASH is 18051.385595927437
+------------------
+Time: Sat Mar 25 03:00:00 2017
+Sold at 0.10503427
+Current number of BTC is 1896.0141085567534
+------------------
+Time: Mon Mar 27 03:00:00 2017
+Bought at 0.08934084
+Current number of DASH is 21222.25522568126
+------------------
+Time: Sat Apr  1 03:00:00 2017
+Sold at 0.06152947
+Current number of BTC is 1305.7941162408983
+------------------
+Time: Mon Apr  3 03:00:00 2017
+Bought at 0.04842557
+Current number of DASH is 26964.97152725096
+------------------
+Time: Sat Apr  8 03:00:00 2017
+Sold at 0.05666862
+Current number of BTC is 1528.0677247886044
+------------------
+Time: Mon Apr 10 03:00:00 2017
+Bought at 0.05300048
+Current number of DASH is 28831.20539264181
+------------------
+Time: Sat Apr 15 03:00:00 2017
+Sold at 0.06019714
+Current number of BTC is 1735.556107389614
+------------------
+Time: Mon Apr 17 03:00:00 2017
+Bought at 0.0633815
+Current number of DASH is 27382.692227063326
+------------------
+Time: Sat Apr 22 03:00:00 2017
+Sold at 0.0579656
+Current number of BTC is 1587.254184557062
+------------------
+Time: Mon Apr 24 03:00:00 2017
+Bought at 0.05745461
+Current number of DASH is 27626.228505546584
+------------------
+Time: Sat Apr 29 03:00:00 2017
+Sold at 0.07204178
+Current number of BTC is 1990.2426762263158
+------------------
+Time: Mon May  1 03:00:00 2017
+Bought at 0.06933699
+Current number of DASH is 28703.90935958304
+------------------
+Time: Sat May  6 03:00:00 2017
+Sold at 0.06413128
+Current number of BTC is 1840.8184482340407
+------------------
+Time: Mon May  8 03:00:00 2017
+Bought at 0.06115005
+Current number of DASH is 30103.302421405064
+------------------
+Time: Sat May 13 03:00:00 2017
+Sold at 0.05144293
+Current number of BTC is 1548.602079233171
+------------------
+Time: Mon May 15 03:00:00 2017
+Bought at 0.04990251
+Current number of DASH is 31032.54884840805
+------------------
+Time: Sat May 20 03:00:00 2017
+Sold at 0.05211336
+Current number of BTC is 1617.210389854674
+------------------
+Time: Sun May 21 19:00:00 2017
+Sold BTC at: 2173.4
+Number of US Dollars: 3514845.061310149
+HODL ideology 7981978.334014711
