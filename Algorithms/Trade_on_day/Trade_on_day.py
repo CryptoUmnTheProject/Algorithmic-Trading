@@ -24,7 +24,7 @@ for entry in info:
     Thu Apr 10 19:00:00 2014
     """
     price = entry.get('weightedAverage')
-    print(entry)
+    
     if btc == 0 and dollars > 0:
         btc = helper.convertToBTC(results_file, dollars, entry.get('date'))
         dollars = 0
@@ -42,7 +42,7 @@ for entry in info:
 
         helper.recordSell(results_file, altcoin, date, price, btc)
         
-    hodl_sell = first_buy_in*price
+    hodl_sell = hodl_buy*price
 
 if btc > 0 :
     helper.converToDollars(results_file, btc, date)
@@ -51,7 +51,7 @@ else:
     amount_of_altcoin = 0
     helper.converToDollars(results_file, btc, date)
     
-hodl_sell = hodle_sell * 2173.40
-results_file.write("HODL ideology "+ str(last_sell_out))
+hodl_sell = hodl_sell * 2173.40
+results_file.write("HODL ideology "+ str(hodl_sell))
 print("Done!")
 results_file.close()
